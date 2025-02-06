@@ -1,0 +1,41 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore environment variables and secrets
+.env
+*.env
+
+# Ignore package dependencies
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore distribution and build files
+dist/
+build/
+*.egg-info/
