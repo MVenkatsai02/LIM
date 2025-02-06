@@ -1,6 +1,6 @@
 ## LIM
 
-This is amsimple Streamlit web application that integrates with Google's Gemini API.The Image.py describes about the image uploaded
+This is a simple Streamlit web application that integrates with Google's Gemini API.The Image.py describes about the image uploaded
 
 ## Features
 - Uses Google's Gemini-1.5 Flash model for text generation
